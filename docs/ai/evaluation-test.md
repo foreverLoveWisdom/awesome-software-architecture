@@ -1,4 +1,4 @@
-# Evaluation
+# Evaluation & Test
 
 ## Articles
 
@@ -17,3 +17,7 @@
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 - [Aider-AI/aider/benchmark](https://github.com/Aider-AI/aider/tree/main/benchmark)
 - [openai/human-eval](https://github.com/openai/human-eval) - Code for the paper "Evaluating Large Language Models Trained on Code"
+- [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
+- [microsoft/vally](https://microsoft.github.io/vally/) - The extensible eval platform
+- [UiPath/coder_eval](https://github.com/UiPath/coder_eval) - Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.
+- [scaleapi/SWE-bench_Pro-os](https://github.com/scaleapi/SWE-bench_Pro-os) - SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?

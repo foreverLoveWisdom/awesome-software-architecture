@@ -28,6 +28,7 @@
 - [IGotAnOffer-Engineering Youtube Channel](https://www.youtube.com/@IGotAnOffer-Engineering)
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources
 - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
+- [@AkhilSharmaTech Youtube Channel](https://www.youtube.com/@AkhilSharmaTech)
 
 ## Courses
 - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)

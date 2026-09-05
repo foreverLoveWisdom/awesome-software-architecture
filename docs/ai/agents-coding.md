@@ -1,7 +1,10 @@
-# Claude Code
+# Agent Coding 
 
-## Resources
+# Resources
 
+- [syv-ai/agentic-coding-playbook](https://github.com/syv-ai/agentic-coding-playbook) - agentic coding playbook
+- [DanWahlin/github-copilot-cli-for-beginners](https://github.com/DanWahlin/github-copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide
@@ -17,15 +20,18 @@
 - [Claude Code & GitHub Copilot | Cross-Compatible Prompt Structure](https://raffertyuy.com/raztype/claude-copilot-xcompatibility/)
 - [Claude Code Configuration Blueprint: The Complete Guide for Production Teams](https://dev.to/mir_mursalin_ankur/claude-code-configuration-blueprint-the-complete-guide-for-production-teams-557p)
 
-## Videos
-- [How to use Claude Code for beginners](https://www.youtube.com/watch?v=U_vwfQBhVSY)
-- [How I use Claude Code (+ my best tips)](https://www.youtube.com/watch?v=n7iT5r0Sl_Y)
-- [I was using Claude Code wrong... The Ultimate Workflow](https://www.youtube.com/watch?v=UZb0if-7wGE)
-- [How I Tamed Claude - Emmz Rendle - NDC London 2026](https://www.youtube.com/watch?v=pey9u_ANXZM) ⭐
 
-## Libraries & Tools
+## Tools & Libraries
+
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [CodeAlta/CodeAlta](https://github.com/CodeAlta/CodeAlta) - Your efficient agentic AI coding CLI assistant
+- [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent) - The agent that grows with you
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic-managed directory of high quality Claude Code Plugins.
 - [papaoloba/spec-based-claude-code](https://github.com/papaoloba/spec-based-claude-code) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands
-- [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) - Claude Code skills and sub-agents for .NET Developers
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+## Samples
+
+- [lucasrosati/claude-code-memory-setup](https://github.com/lucasrosati/claude-code-memory-setup) - Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. 🇧🇷 PT-BR included.
+- [AdelNazmy/pi-deploy](https://github.com/AdelNazmy/pi-deploy) - Portable snapshot of a fully configured pi coding-agent environment for future deployments
+
