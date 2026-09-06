@@ -66,7 +66,7 @@ The same hierarchy used by the web app is shown below as a compact table: **coll
 
 ## Browse Resources
 
-The catalog includes articles, videos, courses, books, libraries, samples, tools, and other references. Search the [web app](https://awesome-architecture.com/) by collection, topic, section, name, or source domain, or browse the full source tree in [`docs/`](docs/).
+The catalog includes articles, videos, courses, books, libraries, samples, tools, and other references. Search the [web app](https://awesome-architecture.com/) by collection, topic, section, name or source domain, or browse the full source tree in [`docs/`](docs/).
 
 ## 🙏 Special Thanks
 
