@@ -3,10 +3,6 @@
   <p align="center">A searchable guide to software architecture patterns, systems, AI engineering, and practical resources.</p>
   <p align="center">
     <a href="https://awesome-architecture.com/">Open the web experience</a>
-    ·
-    <a href="https://github.com/mehdihadeli/awesome-software-architecture/actions/workflows/ci.yml">Build</a>
-    ·
-    <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE">License</a>
   </p>
 </p>
 
