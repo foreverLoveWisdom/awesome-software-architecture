@@ -19,11 +19,21 @@ Resources must be educational, technical, or genuinely useful to architecture pr
 
 ## Add a Topic
 
-Create a new Markdown file when no existing topic is a good fit. Place it in the relevant collection or nested subcollection, then add it to the catalog tree in [`README.md`](README.md).
+Create a new Markdown file when no existing topic is a good fit. Place it in the relevant collection or nested subcollection. The web catalog discovers Markdown files automatically.
 
 Use lowercase kebab-case for new filenames, for example `distributed-tracing.md`. Keep the topic focused and avoid duplicating links from another topic.
 
-Create a new collection or subcollection only when the content represents a meaningful group of topics. Add its folder and landing document, then update the README catalog and web content metadata when required.
+Create a new collection or subcollection only when the content represents a meaningful group of topics. Use one of these collections:
+
+- `ai`
+- `foundations`
+- `distributed-systems`
+- `data`
+- `cloud-platforms`
+- `devops`
+- `software-architecture` (with `architecture-patterns/` and `anti-patterns/` subcollections)
+
+The web catalog derives collection and topic navigation from this folder structure. Do not add a separate navigation file or landing document unless it contains useful content.
 
 ## Validate Changes
 
@@ -41,7 +51,7 @@ Before opening a pull request:
   npm run build
   ```
 
-- Review the generated web route and README catalog when adding or moving a topic.
+- Review the generated web route and README collection map when adding or moving a topic.
 
 ## Pull Requests
 
@@ -54,7 +64,7 @@ Before opening a pull request:
 
 - [`docs/`](docs/) is the source catalog.
 - [`web/`](web/) contains the searchable static web experience.
-- [`README.md`](README.md) provides the repository overview and catalog tree.
+- [`README.md`](README.md) provides the repository overview and collection map.
 - [`assets/home.png`](assets/home.png) is the README web preview.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors) for improving the collection.

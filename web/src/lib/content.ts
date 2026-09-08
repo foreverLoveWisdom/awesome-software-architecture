@@ -83,7 +83,12 @@ const sectionTypes: Record<string, ResourceType> = {
 
 const categoryByPath: Record<string, string> = {
   ai: "AI Engineering",
-  microservices: "Microservices",
+  foundations: "Foundations",
+  "distributed-systems": "Distributed Systems",
+  data: "Data",
+  "cloud-platforms": "Cloud Platforms",
+  devops: "DevOps",
+  "software-architecture": "Software Architecture",
 };
 
 const resourceTypes: ResourceType[] = [
